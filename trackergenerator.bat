@@ -1,0 +1,3 @@
+python trackergenerator.py
+
+pause
