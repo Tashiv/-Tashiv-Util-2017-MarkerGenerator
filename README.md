@@ -1,13 +1,16 @@
 # 2017-Graphics-MarkerGenerator
-## Overview:
 A tool for generating high-detail trackers for use in Computer Vision experiments. 
 
-## Usage:
-1. To run the project you will need Python 3 and the Pillow Python module (pip install pillow). 
-2. Modify the parameters of the generateImageTracker(...) calls in the Main method to your needs.
-3. Run the python script and check the output folder for the results.
+## Requirements:
+1. Python 3
+2. Pillow Module (pip install pillow)
 
-## Examples:
+## Usage:
+1. Modify the parameters of the generateImageTracker(...) method calls in the Main method to your needs.
+2. Run the python script (python3 trackergenerator.py)
+3. Check the output folder for the results.
+
+## Result Examples:
 <img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-A.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-B.png" width="300" height="400">
 
 <img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-C.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-D.png" width="300" height="400">
