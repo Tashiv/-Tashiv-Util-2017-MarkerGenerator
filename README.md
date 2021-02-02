@@ -11,6 +11,6 @@ A tool for generating high-detail trackers for use in Computer Vision experiment
 3. Check the output folder for the results.
 
 ## Result Examples:
-<img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-A.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-B.png" width="300" height="400">
+<img src="https://github.com/Tashiv/2017-Utilities-MarkerGenerator/blob/master/Output/tracker-A.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Utilities-MarkerGenerator/blob/master/Output/tracker-B.png" width="300" height="400">
 
-<img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-C.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-D.png" width="300" height="400">
+<img src="https://github.com/Tashiv/2017-Utilities-MarkerGenerator/blob/master/Output/tracker-C.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Utilities-MarkerGenerator/blob/master/Output/tracker-D.png" width="300" height="400">
