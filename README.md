@@ -1,4 +1,4 @@
-# Util-2017-MarkerGenerator
+# 2017-Graphics-MarkerGenerator
 ## Overview:
 A tool for generating high-detail trackers for use in Computer Vision experiments. 
 
@@ -8,6 +8,6 @@ A tool for generating high-detail trackers for use in Computer Vision experiment
 3. Run the python script and check the output folder for the results.
 
 ## Examples:
-<img src="https://github.com/Tashiv/Util-2017-MarkerGenerator/blob/master/Output/tracker-A.png" width="300" height="400"><img src="https://github.com/Tashiv/Util-2017-MarkerGenerator/blob/master/Output/tracker-B.png" width="300" height="400">
+<img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-A.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-B.png" width="300" height="400">
 
-<img src="https://github.com/Tashiv/Util-2017-MarkerGenerator/blob/master/Output/tracker-C.png" width="300" height="400"><img src="https://github.com/Tashiv/Util-2017-MarkerGenerator/blob/master/Output/tracker-D.png" width="300" height="400">
+<img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-C.png" width="300" height="400"><img src="https://github.com/Tashiv/2017-Graphics-MarkerGenerator/blob/master/Output/tracker-D.png" width="300" height="400">
